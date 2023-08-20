@@ -5,5 +5,15 @@ html(lang="en")
         meta(http-equiv="X-UA-Compatible", content="IE=edge")
         meta(name="viewport", content="width=device-width, initial-scale=1.0")
         link(rel="stylesheet", href="./css/main.css")
-        title Test
-    body 
+        title trademastery
+    body
+        .wrapper
+            include ./pug/module/header.pug
+            main.main
+                include ./pug/module/dreams.pug
+                include ./pug/module/criteria.pug
+                include ./pug/module/about-me.pug
+                include ./pug/module/reviews.pug
+                include ./pug/module/pathways.pug
+            include ./pug/module/footer.pug
+        script(src="./js/main.js" type="module")
