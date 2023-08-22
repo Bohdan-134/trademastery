@@ -1,0 +1,157 @@
+/* --------- DrukCyr --------- */
+@font-face {
+  font-family: "DrukCyr-Medium";
+  src: url("../../fonts/DrukCyr/DrukCyr-Medium.eot");
+  src: url("../../fonts/DrukCyr/DrukCyr-Medium.eot") format("embedded-opentype"),
+    url("../../fonts/DrukCyr/DrukCyr-Medium.woff2") format("woff2"),
+    url("../../fonts/DrukCyr/DrukCyr-Medium.woff") format("woff"),
+    url("../../fonts/DrukCyr/DrukCyr-Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* --------- Formular --------- */
+@font-face {
+  font-family: "Formular";
+  src: url("../../fonts/Formular/Formular-Light.eot");
+  src: url("../../fonts/Formular/Formular-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/Formular/Formular-Light.woff2") format("woff2"),
+    url("../../fonts/Formular/Formular-Light.woff") format("woff"),
+    url("../../fonts/Formular/Formular-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* --------- GeogrotesqueCyr --------- */
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Medium.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Medium.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Medium.woff2") format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Medium.woff") format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Light.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Light.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Light.woff2") format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Light.woff") format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Bold.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Bold.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Bold.woff2") format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Bold.woff") format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-SemiBold.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-SemiBold.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-SemiBold.woff2")
+      format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-SemiBold.woff") format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-SemiBold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-BoldItalic.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-BoldItalic.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-BoldItalic.woff2")
+      format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-BoldItalic.woff")
+      format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-BoldItalic.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-LightItalic.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-LightItalic.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-LightItalic.woff2")
+      format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-LightItalic.woff")
+      format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-LightItalic.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Italic.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Italic.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Italic.woff2") format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Italic.woff") format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Italic.ttf")
+      format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GeogrotesqueCyr";
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Regular.eot");
+  src: url("../../fonts/Geogrotesque/GeogrotesqueCyr-Regular.eot")
+      format("embedded-opentype"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Regular.woff2")
+      format("woff2"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Regular.woff") format("woff"),
+    url("../../fonts/Geogrotesque/GeogrotesqueCyr-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* --------- typographPro --------- */
+@font-face {
+  font-family: "typographPro";
+  src: url("../../fonts/typographPro/TYPOGRAPH-PRO-Extra-Bold.ttf")
+    format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "typographPro";
+  src: url("../../fonts/typographPro/TYPOGRAPH-PRO-Light.ttf")
+    format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "typographPro";
+  src: url("../../fonts/typographPro/TYPOGRAPH-PRO-Semi-Bold.ttf")
+    format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
